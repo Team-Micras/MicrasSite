@@ -15,13 +15,14 @@ const config: Config = {
   url: 'https://team-micras.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/MicrasSite/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'team-micras', // Usually your GitHub org/user name.
-  projectName: 'team-micras.github.io', // Usually your repo name.
+  projectName: 'MicrasSite', // Usually your repo name.
   deploymentBranch: 'main',
+  
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
