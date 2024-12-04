@@ -8,7 +8,7 @@ import rehypeKatex from 'rehype-katex';
 
 const config: Config = {
   title: 'Micras',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Desenvolvimento de um robô de alta performance para a categoria Micro Mouse',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -85,7 +85,7 @@ const config: Config = {
       title: 'Micras',
       logo: {
         alt: 'Micras Logo',
-        src: 'img/logo.svg',
+        src: 'img/MicrasLogo.png',
       },
       items: [
         {
